@@ -1,5 +1,5 @@
 # CryptoClustering
-I will use Unsupervised Learning tecniques to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+Applying unsupervised learning techniques to determine the optimal k-value, normalizing the data, and visualizing the resulting clusters using a scatter plot. Subsequently, comparing these results with those obtained after applying Principal Component Analysis (PCA).
 
 ## Technologies and Tools Used
 - Python
@@ -7,7 +7,6 @@ I will use Unsupervised Learning tecniques to predict if cryptocurrencies are af
 - scikit-learn 
 - pandas
 - hvplot
-
 
 ## Instructions
 I followed below steps to use K-means algorithm to make predictions and compare the results after applying PCA (Principal Component Analysis)
